@@ -49,10 +49,6 @@
 
     <!-- Site styles -->
     <style>
-      /* Plugin: Carbon Ads */
-      #carbonads > :last-child {
-        margin-block: calc((1em * var(--line-height)) / 2);
-      }
 
       /* UI Kit */
       .ui-kit-color {
@@ -92,7 +88,6 @@
 
   <body class="loading sidebar-chevron-right sidebar-group-box">
     <div id="app"></div>
-    <script src="//cdn.jsdelivr.net/npm/docsify-plugin-carbon@1"></script>
     <script>
       // Docsify configuration
       window.$docsify = {
@@ -106,7 +101,7 @@
             'https://cdn.jsdelivr.net/gh/docsifyjs/docs-zh@main/$1',
         },
         auto2top: true,
-        coverpage: true,
+        coverpage: false,
         executeScript: true,
         // hideSidebar: true,
         loadSidebar: true,
@@ -197,7 +192,6 @@
           },
         },
         plugins: [
-          DocsifyCarbon.create('CEBI6KQE', 'docsifyjsorg'),
           // Plugin: Footer
           function (hook, vm) {
             hook.beforeEach(html => {
@@ -212,14 +206,14 @@
                   .replace('@main', '/blob/main');
               } else {
                 url =
-                  'https://github.com/docsifyjs/docsify/blob/develop/docs/' +
+                  'https://github.com/chainlens/docs/blob/main/docs/' +
                   vm.route.file;
               }
 
               const footerHTML = [
                 '<hr>',
                 '<div style="display: flex; align-items: center; justify-content: space-between;">',
-                '  <span>Powered by <a href="/">Docsify.js</a></span>',
+                '  <span>Powered by <a href="/">Chain Lens</a></span>',
                 `  <a href="${url}" style="display: inline-flex; align-items: center; gap: 0.25em;">:memo: Edit Page</a>`,
                 '</div>',
               ].join('\n');

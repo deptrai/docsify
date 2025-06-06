@@ -1,31 +1,21 @@
 <!-- markdownlint-disable first-line-h1 -->
-
-- Getting started
-
-  - [Quick start](quickstart.md)
-  - [Adding pages](adding-pages.md)
-  - [Cover page](cover.md)
-  - [Custom navbar](custom-navbar.md)
-
-- Customization
-
-  - [Configuration](configuration.md)
-  - [Themes](themes.md)
-  - [List of Plugins](plugins.md)
-  - [Write a Plugin](write-a-plugin.md)
-  - [Markdown configuration](markdown.md)
-  - [Language highlighting](language-highlight.md)
-  - [Emoji](emoji.md)
-
-- Guide
-
-  - [Deploy](deploy.md)
-  - [Helpers](helpers.md)
-  - [Vue compatibility](vue.md)
-  - [CDN](cdn.md)
-  - [Offline Mode (PWA)](pwa.md)
-  - [Embed Files](embed-files.md)
-  - [UI Kit](ui-kit.md)
-
-- [Awesome docsify](awesome.md)
-- [Changelog](changelog.md)
+- ChainLens
+  - [Giới thiệu](chainlens/introduction.md)
+  - [Hướng dẫn nhanh](chainlens/quickstart.md)
+  - [Roadmap](chainlens/roadmap.md)
+  - [Câu hỏi thường gặp](chainlens/frequently-asked-questions.md)
+  - How Trady Works
+    - [Quickstart](chainlens/how-trady-works/quickstart.md)
+    - [Architecture Breakdown](chainlens/how-trady-works/architecture-breakdown.md)
+    - [Tech Stack Summary](chainlens/how-trady-works/tech-stack-summary.md)
+  - Copyswap In Detail
+    - [What is Copyswap](chainlens/copyswap-in-detail/what-is-copyswap.md)
+    - [How Copyswap Works](chainlens/copyswap-in-detail/how-copyswap-works-technically.md)
+    - [Copy2Earn](chainlens/copyswap-in-detail/copy2earn.md)
+  - Chat System
+    - [Introduction](chainlens/chat-system/introduction.md)
+    - [How It Works](chainlens/chat-system/how-it-works.md)
+    - [Message Types](chainlens/chat-system/message-types.md)
+  - Ecosystem Integration
+    - [Introduction](chainlens/ecosystem-integration/introduction.md)
+    - [Core Integration Partners](chainlens/ecosystem-integration/core-integration-partners.md)
