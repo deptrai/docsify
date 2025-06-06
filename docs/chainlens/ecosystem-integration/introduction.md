@@ -3,6 +3,7 @@
 Chain Lens không phải là một ứng dụng độc lập trôi nổi trong chân không — nó được tích hợp sâu vào hệ sinh thái Solana và tận dụng cơ sở hạ tầng cũng như các giao thức mạnh mẽ nhất hiện có.
 
 Thay vì phát minh lại bánh xe, Chain Lens kết nối trực tiếp với:
+
 - Hệ thống tổng hợp (Aggregation systems)
 - Bộ công cụ phát triển ví (Wallet SDKs)
 - Các RPC công khai (Public RPCs)

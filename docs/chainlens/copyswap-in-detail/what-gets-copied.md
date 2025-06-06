@@ -1,8 +1,7 @@
-
-
 # Những Gì Được Sao Chép?
 
 Chain Lens hiện tại sao chép các chi tiết swap sau:
+
 - Token A và Token B (đầu vào/đầu ra)
 - Hướng giao dịch (mua/bán)
 - Lộ trình swap (tự động tối ưu hóa)
@@ -10,6 +9,7 @@ Chain Lens hiện tại sao chép các chi tiết swap sau:
 - Cài đặt slippage (mặc định hoặc do người dùng xác định)
 
 Nó không sao chép:
+
 - Chuyển tiền từ ví sang ví
 - Mint hoặc chuyển NFT
 - Staking LP hoặc tương tác farm

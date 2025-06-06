@@ -24,6 +24,7 @@ Không bao giờ chia sẻ khóa của bạn với bất kỳ ai, ngay cả khi 
 **Trách Nhiệm Nền Tảng.**
 Chain Lens là một frontend mở được xây dựng trên cơ sở hạ tầng công cộng của Solana. Nó không kiểm soát các hợp đồng token, thanh khoản DEX hoặc hành vi của ví.
 Chúng tôi không chịu trách nhiệm về tổn thất của người dùng do:
+
 - Sao chép các ví hoạt động kém hiệu quả
 - Giao dịch các token bị rug pull hoặc mất thanh khoản
 - Không xuất hoặc sao lưu ví
@@ -38,11 +39,13 @@ Chúng tôi sẽ không tiến hành ra mắt lén lút (stealth launch) hoặc 
 **Không Hợp Tác Mà Không Xác Minh.**
 Những kẻ lừa đảo thường mạo danh các nền tảng để cung cấp các tích hợp giả mạo hoặc các giao dịch IDO.
 Chain Lens không khởi xướng quan hệ đối tác qua tin nhắn trực tiếp trên Telegram hoặc các token chưa được xác minh. Luôn xác nhận các thông báo qua:
+
 - ✅ Twitter/X: @Chain LensProtocol
 - ✅ Telegram: t.me/Chain LensProtocol
 - ✅ Trang web: [https://chainlens.net](https://chainlens.net)
 
 **Kênh Liên Hệ Chính Thức**
+
 - 📬 Thắc mắc chung: [email protected]
 - 🛡️ Pháp lý & Tuân thủ: [email protected]
 - 📢 Cộng đồng / Báo chí: qua X hoặc Telegram

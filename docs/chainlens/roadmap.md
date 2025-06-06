@@ -3,7 +3,9 @@
 ## 📍 Lộ Trình Chain Lens
 
 ### ✅ Giai Đoạn 1 – Ra Mắt Cốt Lõi (V1)
+
 🟢 **Trạng thái: Đã triển khai**
+
 - Ví trong trình duyệt (không yêu cầu tiện ích mở rộng)
 - Công cụ CopySwap (sao chép giao dịch thời gian thực)
 - Swap tổng hợp được cung cấp bởi Jupiter
@@ -14,7 +16,9 @@
 - Tài liệu GitBook
 
 ### 🔜 Giai Đoạn 2 – Tăng Trưởng & Lớp Tiện Ích (V2)
+
 🕒 **Mục tiêu: Sau khi token có sức hút / Quý 2-3 2025**
+
 - 🪙 Ra mắt token $Chain Lens (tập trung vào tiện ích)
 - Cơ chế thưởng Copy2Earn cho các ví được theo dõi
 - Kích hoạt & cảnh báo giao dịch thông minh (ví dụ: dừng lỗ, sao chép khi vào lệnh)
@@ -26,7 +30,9 @@
 - KYC tùy chọn cho các ví chuyên nghiệp
 
 ### 🧠 Giai Đoạn 3 – Mở Rộng Hệ Sinh Thái (V3)
+
 🧭 **Định hướng, không hứa hẹn**
+
 - Bảng điều khiển phân tích đầy đủ cho lịch sử token + ví
 - Công cụ dành cho nhà sáng tạo cho các ví hàng đầu (hồ sơ xã hội, tín hiệu tùy chỉnh)
 - Chiến lược sao chép được hỗ trợ bởi AI (phản chiếu thông minh, tự động dừng)

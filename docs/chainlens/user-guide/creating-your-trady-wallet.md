@@ -3,6 +3,7 @@
 Khi bạn nhấp vào “Create Wallet” (Tạo Ví), Chain Lens sẽ tạo một ví Solana một cách an toàn trong trình duyệt của bạn bằng cách sử dụng `@solana/web3.js`.
 
 #### Các Tính Năng Chính:
+
 - ✅ Tự quản lý (Self-custodial) — private key (khóa riêng tư) của bạn không bao giờ được lưu trữ trên máy chủ của chúng tôi
 - ✅ Được mã hóa & lưu trữ cục bộ (trong trình duyệt của bạn)
 - ✅ Có thể xuất ra ở định dạng JSON tương thích với Phantom

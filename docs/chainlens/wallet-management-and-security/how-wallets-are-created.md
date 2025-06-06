@@ -1,6 +1,7 @@
 # Cách Ví Được Tạo Ra
 
 Khi người dùng truy cập Chain Lens và nhấp vào "Create Wallet" (Tạo Ví), những điều sau sẽ xảy ra:
+
 1. Một cặp khóa (keypair) Solana mới được tạo bằng cách sử dụng @solana/web3.js
 2. Cặp khóa được lưu trữ cục bộ trong bộ nhớ của trình duyệt của bạn (không gửi đến bất kỳ máy chủ nào)
 3. Bạn được cung cấp tùy chọn để xuất private key (khóa riêng tư) của mình ngay lập tức

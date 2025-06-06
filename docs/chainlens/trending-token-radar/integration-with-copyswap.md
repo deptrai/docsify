@@ -3,6 +3,7 @@
 Một trong những tính năng mạnh mẽ nhất của Radar là cách nó tích hợp với CopySwap.
 
 Nếu một ví bạn đang sao chép bắt đầu giao dịch một token cũng đang là xu hướng, Chain Lens sẽ hiển thị cho bạn:
+
 - Điểm Radar của token
 - Ai khác đang tham gia
 - Hiệu suất swap trong giờ qua

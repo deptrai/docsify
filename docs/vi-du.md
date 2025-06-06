@@ -22,7 +22,7 @@ function helloWorld() {
 
 ## Bảng dữ liệu
 
-| Tên | Mô tả | Version |
-|-|-|-|
-| Docsify | Công cụ tạo tài liệu | 5.0 |
-| Markdown | Ngôn ngữ đánh dấu | 1.0 |
+| Tên      | Mô tả                | Version |
+| -------- | -------------------- | ------- |
+| Docsify  | Công cụ tạo tài liệu | 5.0     |
+| Markdown | Ngôn ngữ đánh dấu    | 1.0     |

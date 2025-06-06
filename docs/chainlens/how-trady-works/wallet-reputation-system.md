@@ -3,6 +3,7 @@
 Để ngăn chặn lừa đảo và các giao dịch xấu, Chain Lens bao gồm một Bộ máy Uy tín Ví (Wallet Reputation Engine) động.
 
 **Điểm Uy Tín Bao Gồm:**
+
 - ROI (30 ngày qua, 7 ngày qua, mọi thời điểm)
 - Phát hiện lịch sử rug pull (token bị bán tháo hoặc rút thanh khoản)
 - Độ chính xác về thời điểm swap (mua trước các đợt pump)

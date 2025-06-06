@@ -3,6 +3,7 @@
 Chain Lens bao gồm một radar token thời gian thực tích hợp sẵn cho thấy những token nào đang thu hút khối lượng giao dịch và sự chú ý ngay bây giờ.
 
 **Các Số Liệu Được Theo Dõi:**
+
 - Khối lượng swap (1 giờ / 6 giờ / 24 giờ)
 - Hoạt động ví duy nhất
 - Sự gia tăng đột biến về lượt đề cập token trong chat

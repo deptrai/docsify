@@ -1,6 +1,7 @@
 # Ý Nghĩa Của Việc Nắm Giữ $Chain Lens
 
 Bằng cách nắm giữ $Chain Lens, người dùng không chỉ đơn thuần là đầu cơ — họ đang:
+
 - Hỗ trợ cơ sở hạ tầng nền tảng
 - Có được quyền truy cập vào các lớp tiện ích trong tương lai
 - Tham gia vào cơ chế giảm phát của token

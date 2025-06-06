@@ -1,6 +1,7 @@
 # Các Tính Năng Ví Trong Tương Lai
 
 Các nâng cấp sắp tới bao gồm:
+
 - 🔑 Mở khóa được Bảo vệ bằng mã PIN
 - 📱 Face ID / Touch ID cho người dùng di động
 - 🔄 Sao lưu đám mây (được mã hóa, chỉ tham gia nếu chọn)

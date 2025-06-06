@@ -44,8 +44,9 @@ Có. Chain Lens được tối ưu hóa hoàn toàn cho các trình duyệt di �
 
 **Có cách nào để báo cáo lỗi hoặc đề xuất cải tiến không?**
 Có. Người dùng có thể cung cấp phản hồi trực tiếp qua:
+
 - Twitter/X: @Chain LensProtocol
-- Email: support@chainlens.net 
+- Email: support@chainlens.net
 - Telegram: [t.me/Chain LensProtocol](https://t.me/Chain LensProtocol)
 
 Đội ngũ tích cực theo dõi tất cả các kênh và khuyến khích người dùng ban đầu định hình lộ trình.
@@ -55,6 +56,7 @@ Trọng tâm hiện tại là Solana, nơi tốc độ và phí thấp cho phép
 
 **Tôi có thể mất tiền khi sử dụng Chain Lens không?**
 Như với bất kỳ nền tảng DeFi nào, có — nếu bạn sao chép một ví xấu, giao dịch các token dễ biến động hoặc để lộ khóa riêng tư của mình. Nhưng Chain Lens giảm thiểu rủi ro với:
+
 - Điểm uy tín ví
 - Phương pháp phỏng đoán phát hiện rug pull
 - Lưu trữ khóa chỉ ở cục bộ
@@ -64,6 +66,7 @@ Nếu bạn tuân theo các phương pháp tốt nhất và sử dụng dữ li�
 
 **Có cộng đồng nào tôi có thể tham gia không?**
 Có. Chain Lens có các cộng đồng hoạt động trên:
+
 - Twitter/X: @Chain LensProtocol
 - Discord (sắp ra mắt)
 - Telegram: [t.me/Chain LensProtocol](https://t.me/Chain LensProtocol)
@@ -72,6 +75,7 @@ Có. Chain Lens có các cộng đồng hoạt động trên:
 
 **Chain Lens kiếm tiền như thế nào trong tương lai?**
 Chain Lens sẽ tạo doanh thu thông qua:
+
 - Phí siêu nhỏ từ CopySwap
 - Quyền truy cập công cụ cao cấp
 - Tăng cường khả năng hiển thị trên bảng xếp hạng

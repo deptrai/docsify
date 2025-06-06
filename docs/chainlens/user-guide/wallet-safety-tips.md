@@ -3,6 +3,7 @@
 Chain Lens là ví tự quản lý (self-custodial) — bạn kiểm soát 100%. Nhưng cùng với đó là trách nhiệm.
 
 #### Các phương pháp tốt nhất:
+
 - 🔐 Sao lưu private key (khóa riêng tư) của bạn (không chụp ảnh màn hình, sử dụng trình quản lý mật khẩu)
 - 🔁 Xuất thường xuyên nếu chuyển đổi trình duyệt/thiết bị
 - 🛑 Không bao giờ chia sẻ private key của bạn

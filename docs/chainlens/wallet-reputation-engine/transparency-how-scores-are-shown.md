@@ -1,6 +1,7 @@
 # Transparency: How Scores Are Shown
 
 Each wallet has a detailed profile including:
+
 - Current score and tier badge
 - ROI graph (7d/30d/All-time)
 - Last 10 swaps with outcomes

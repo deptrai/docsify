@@ -3,6 +3,7 @@
 Chain Lens cung cấp cho bạn toàn quyền kiểm soát vòng đời ví của mình.
 
 #### Menu Ví (Trên cùng bên phải):
+
 - Export (Xuất): Tải xuống tệp JSON (tương thích với Phantom)
 - Lock Wallet (Khóa Ví): Kết thúc phiên hiện tại (yêu cầu mở khóa)
 - Reset Wallet (Đặt Lại Ví): Xóa ví khỏi trình duyệt và tạo một ví mới

@@ -1,6 +1,7 @@
 # Cơ Sở Hạ Tầng Backend & Hiệu Suất
 
 Chain Lens được tối ưu hóa cho tốc độ và khả năng mở rộng, sử dụng:
+
 - Frontend không trạng thái (stateless) với khả năng hiển thị động (dynamic rendering)
 - Các điểm cuối RPC công khai (Public RPC endpoints) với dự phòng chuyển đổi dự phòng (fallback redundancy)
 - Bộ nhớ đệm phía máy khách (Client-side caching) cho ví và giao dịch swap

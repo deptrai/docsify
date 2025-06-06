@@ -3,6 +3,7 @@
 $Chain Lens không chỉ là một token quản trị hay một tài sản đầu cơ. Nó là chìa khóa để mở khóa các trải nghiệm cao cấp trên nền tảng.
 
 #### Phân Tích Tiện Ích:
+
 - Staking để Truy Cập: Mở khóa các tính năng cao cấp (tăng cường Copy2Earn, bộ lọc radar, huy hiệu đã xác minh)
 - Giảm Phí: Giảm hoặc miễn phí giao dịch sao chép dựa trên số lượng nắm giữ
 - Tính Năng Độc Quyền: Truy cập sớm vào các công cụ beta, mô-đun mới và mở rộng cross-chain

@@ -3,6 +3,7 @@
 Ví của bạn được lưu trữ trong trình duyệt bằng mã hóa an toàn.
 
 Chain Lens sử dụng:
+
 - Mã hóa AES-256 (phía máy khách - client-side)
 - Mã PIN tùy chọn (sắp có) để bảo vệ việc giải mã ví
 - localStorage hoặc IndexedDB để lưu dữ liệu ví

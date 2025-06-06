@@ -1,8 +1,10 @@
 # Bắt đầu nhanh
 
 #### 🔹 Tổng quan
+
 Chain Lens không chỉ là một frontend khác được xây dựng trên các API swap.
 Đó là một hệ thống tích hợp bao gồm:
+
 - Cơ sở hạ tầng ví tức thì
 - Định tuyến swap thông qua Jupiter
 - Bộ máy thực thi copy-trade

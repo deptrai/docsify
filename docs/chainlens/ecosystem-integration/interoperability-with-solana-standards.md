@@ -1,6 +1,7 @@
 # Khả Năng Tương Tác Với Các Tiêu Chuẩn Solana
 
 Tất cả các hành động của Chain Lens đều có thể nhìn thấy và theo dõi thông qua:
+
 - Các node Solana RPC
 - Solscan / SolanaFM / Xray
 - Trình khám phá Jupiter cho các đường dẫn swap
@@ -16,6 +17,7 @@ Mỗi cú nhấp chuột là một chữ ký. Mỗi giao dịch swap là của b
 Chain Lens phát triển mạnh không phải vì nó thay thế cơ sở hạ tầng Solana — mà vì nó mở rộng và nâng cao nó.
 
 Bằng cách xây dựng trên các công cụ tốt nhất trong hệ sinh thái, Chain Lens:
+
 - Tiết kiệm thời gian cho người dùng
 - Giảm độ phức tạp
 - Thêm một lớp logic xã hội và tự động hóa mạnh mẽ

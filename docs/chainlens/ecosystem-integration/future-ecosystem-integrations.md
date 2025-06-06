@@ -1,6 +1,7 @@
 # Các Tích Hợp Hệ Sinh Thái Trong Tương Lai
 
 Chain Lens đã và đang làm việc trên một số tích hợp bổ sung để mở rộng tiện ích:
+
 - Switchboard hoặc Pyth Oracles → cho cảnh báo giá theo thời gian thực trong chat
 - Tensor Protocol → để khám phá các tín hiệu sao chép dựa trên giá sàn NFT
 - Marinade / Jito → cho các ví copy trading đang LPing hoặc staking

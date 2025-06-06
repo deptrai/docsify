@@ -3,6 +3,7 @@
 Ở cấp độ backend, CopySwap sử dụng các trình theo dõi sự kiện (event watchers) để giám sát các địa chỉ ví cụ thể trên chuỗi.
 
 Đây là phân tích chi tiết về quy trình:
+
 1. Bạn chọn một ví và nhấp vào “Bắt đầu Sao chép”.
 2. Backend của Chain Lens bắt đầu giám sát hoạt động swap của ví đó.
 3. Khi ví ký và gửi một giao dịch swap (thông qua Jupiter), backend sẽ phát hiện giao dịch đó.

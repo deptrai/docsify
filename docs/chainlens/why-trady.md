@@ -1,8 +1,10 @@
 # Tại sao chọn Chain Lens?
 
 #### 🔹 Tại sao chọn Chain Lens?
+
 DeFi đã phát triển nhanh chóng — nhưng quá trình onboarding thì không.
 Hầu hết các nền tảng DEX yêu cầu người dùng phải:
+
 - Cài đặt các tiện ích mở rộng ví
 - Hiểu về slippage, routing, liquidity
 
@@ -10,7 +12,9 @@ Chain Lens loại bỏ những rào cản đó. Thay vì yêu cầu kiến thứ
 Với Chain Lens, bạn không còn phải lựa chọn giữa kiểm soát và tiện lợi — bạn có cả hai.
 
 #### 🔹 Điều Gì Làm Nên Sự Khác Biệt Của Chain Lens?
+
 Chain Lens giới thiệu năm cải tiến cốt lõi giúp phân biệt với các nền tảng DEX truyền thống:
+
 1.  **Tạo Ví Tức Thì**
     Người dùng có thể tạo ví Solana an toàn trực tiếp trên trình duyệt của họ — không cần tiện ích mở rộng hay tải xuống. Khóa riêng tư của bạn chỉ hiển thị cho bạn và có thể xuất ra bất cứ lúc nào.
 2.  **Công Cụ CopySwap**
@@ -23,9 +27,11 @@ Chain Lens giới thiệu năm cải tiến cốt lõi giúp phân biệt với 
     Không có nút “Kết Nối Ví”. Không có cửa sổ pop-up yêu cầu phê duyệt liên tục. Chỉ có quá trình tiếp cận nhanh chóng và các công cụ mạnh mẽ trong một giao diện sạch sẽ, thân thiện với thiết bị di động.
 
 #### 🔹 Chain Lens Trong Một Câu
+
 “Một DEX ưu tiên tính xã hội cho phép bạn sao chép, swap và chat — tất cả từ trình duyệt của bạn.”
 
 #### 🔹 Tổng Quan Các Tính Năng Chính
+
 - ✅ **Tạo Ví Tức Thì**: Tạo ví Solana an toàn, có thể xuất ra trong vài giây
 - 🔁 **CopySwap**: Tự động sao chép giao dịch từ các ví hàng đầu
 - 🧠 **Điểm Uy Tín Ví**: Hệ thống chấm điểm thông minh về rủi ro và hiệu suất
@@ -36,6 +42,7 @@ Chain Lens giới thiệu năm cải tiến cốt lõi giúp phân biệt với 
 - 📈 **Radar Token Xu Hướng**: Thông tin chi tiết theo thời gian thực về các token "hot"
 
 #### 🔹 Chain Lens Dành Cho Ai?
+
 - Nhà giao dịch mới muốn bắt đầu swap mà không bị lạc lối trong quá trình cài đặt
 - Các "degen" kinh nghiệm tìm kiếm giao dịch sao chép và theo dõi xu hướng
 - Nhà xây dựng muốn kiếm tiền từ hoạt động ví của họ thông qua Copy2Earn
@@ -44,17 +51,20 @@ Chain Lens giới thiệu năm cải tiến cốt lõi giúp phân biệt với 
 Cho dù bạn là người mới bắt đầu hay chuyên nghiệp, Chain Lens loại bỏ mọi rào cản giữa bạn và giao dịch thông minh đầu tiên của bạn.
 
 #### 🔹 Điều Gì Sắp Tới?
+
 Chain Lens sẽ sớm ra mắt token và quyền truy cập nền tảng. Mặc dù launchpad token vẫn chưa được công bố, bản thân nền tảng đã đang được phát triển tích cực và sắp ra mắt công chúng.
 Hãy theo dõi để biết thêm về:
+
 - Quyền truy cập Beta
 - Công cụ nhập/xuất ví
 - Phân tích hiệu suất sao chép
 - Cải tiến giao diện người dùng di động
 
 #### 🔹 Liên Kết
+
 - 📩 Liên hệ: [email protected]
 - 🗨️ Twitter: @ChainLensProtocol
 - 🟢 Telegram: t.me/ChainLensProtocol
 - 💬 Discord: Sắp có
 
-*Cập nhật lần cuối 1 tháng trước*
+_Cập nhật lần cuối 1 tháng trước_

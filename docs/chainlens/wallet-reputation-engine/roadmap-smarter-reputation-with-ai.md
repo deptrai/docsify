@@ -1,6 +1,7 @@
 # Roadmap: Smarter Reputation with AI
 
 While Chain Lens already uses behavioral heuristics, future versions will incorporate machine learning to detect:
+
 - Trade clusters (e.g., wallet groups coordinating on a token)
 - Hidden trends in copy performance
 - Real-time anomaly detection (e.g., a wallet's strategy suddenly changes)

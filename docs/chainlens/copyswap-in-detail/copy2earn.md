@@ -1,5 +1,3 @@
-
-
 # Copy2Earn
 
 CopySwap cũng giới thiệu một mô hình khuyến khích mạnh mẽ cho các ví hoạt động hiệu quả cao: Copy2Earn.
@@ -7,6 +5,7 @@ CopySwap cũng giới thiệu một mô hình khuyến khích mạnh mẽ cho c�
 Mỗi khi người dùng theo dõi và sao chép giao dịch của bạn, bạn có thể kiếm được một khoản phí nhỏ — được khấu trừ dưới dạng một khoản phí vi mô của nền tảng hoặc được tích hợp vào biên độ định tuyến.
 
 Điều này khuyến khích:
+
 - Tính minh bạch
 - Giao dịch có trách nhiệm
 - Xây dựng danh tính trên chuỗi đáng tin cậy

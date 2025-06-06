@@ -1,6 +1,7 @@
 # Tối Ưu Hóa Cho Di Động
 
 Không giống như nhiều DEX cho cảm giác chật chội hoặc bị lỗi trên di động, Chain Lens được thiết kế ưu tiên cho thiết bị di động (mobile-first). Các tính năng như:
+
 - Tạo ví trong ứng dụng (In-app wallet creation)
 - Vuốt để sao chép (Swipe-to-copy) trên ví
 - Vuốt để trò chuyện (Swipe-to-chat) cho mỗi token

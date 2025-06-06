@@ -1,6 +1,7 @@
 # Lộ Trình cho Radar
 
 Các nâng cấp đã lên kế hoạch bao gồm:
+
 - 🧠 Ngưỡng cảnh báo được huấn luyện bằng AI (tự điều chỉnh dựa trên điều kiện thị trường)
 - 🗺️ Bản đồ nhiệt (Heatmaps) cho các xu hướng token theo ngành (ví dụ: memes, infra, NFTs)
 - 🧑‍🤝‍🧑 Chấm điểm tâm lý nhóm từ phân tích trò chuyện

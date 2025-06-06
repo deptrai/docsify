@@ -5,6 +5,7 @@ Hệ thống chat của Chain Lens được xây dựng bằng Supabase Realtime
 Mỗi khi người dùng nhấp vào một token để xem dữ liệu hoặc thực hiện swap, họ cũng được truy cập vào phòng chat trực tiếp của token đó. Không cần đăng nhập thêm. Chat được liên kết với ví Chain Lens trong trình duyệt của người dùng.
 
 Đây là những gì xảy ra:
+
 - Bạn mở một token
 - Biểu đồ, giao diện swap và chat của token xuất hiện cạnh nhau
 - Bạn có thể gửi và nhận tin nhắn ngay lập tức
